@@ -27,6 +27,9 @@ jobs:
 
     # checkout the repo
     - uses: actions/checkout@master  
+    - uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
     
     - name: Install Nuget
       uses: nuget/setup-nuget@v1
