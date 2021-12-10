@@ -1,6 +1,6 @@
 ## Challenge 1 - Assessment and Getting Ready for Prerequisites
 
-**[Home](../README.md)** - [Next Challenge >](./Challenge02.md)
+**[Home](https://github.com/jethanivijay/devopswithgithubhack)** - [Next Challenge >](./Challenge02.md)
 
 
 ## Description
