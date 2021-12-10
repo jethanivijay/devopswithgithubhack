@@ -1,6 +1,6 @@
 # Challenge 5 - Secure Your Solution
 
-[< Previous Challenge](./Challenge04.md) - **[Home](../README.md)**
+[< Previous Challenge](./Challenge04.md) - **[Home](https://github.com/jethanivijay/devopswithgithubhack)**
 
 ## Description
 
