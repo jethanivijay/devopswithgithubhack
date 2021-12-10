@@ -18,7 +18,7 @@
 ## Success Criteria
 
 1. Show code in your Reposistory
-2. Show your have Azure subscription ready
+2. Show your Azure subscription is ready
 3. Demonstrate your understanding of the solution blueprint to your coach
 
 ## Learning Resources
