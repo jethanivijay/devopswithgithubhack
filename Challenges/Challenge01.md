@@ -11,15 +11,14 @@
 - Clone the Repoistory on your Github /Azure DevOps account
 - Redeem your code and get ready with Azure subscription
 - Select the appropriate IDE which suits your deployment
-- Collobarate with your team to define an approach based on your undertanding
-- Demonstrate your understanding , keep in mind the Success Criteria
+- Collobarate with your team to define an approach based on your understanding
    
 
 ## Success Criteria
 
 1. Show code in your Reposistory
 2. Show your Azure subscription is ready
-3. Demonstrate your understanding of the solution blueprint to your coach
+3. Demonstrate your understanding in alignment with solution blueprint
 
 ## Learning Resources
 
