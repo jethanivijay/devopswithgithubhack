@@ -1,6 +1,6 @@
 # Challenge 4 - Power of Serverless
 
-[< Previous Challenge](./Challenge03.md) - **[Home](.https://github.com/jethanivijay/devopswithgithubhack)** - [Next Challenge >](./Challenge05.md)
+[< Previous Challenge](./Challenge03.md) - **[Home](https://github.com/jethanivijay/devopswithgithubhack)** - [Next Challenge >](./Challenge05.md)
 
 ## Description
 
