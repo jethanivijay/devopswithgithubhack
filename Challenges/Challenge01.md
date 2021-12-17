@@ -22,5 +22,6 @@
 
 ## Learning Resources
 
-- [Steps to Create Repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
-- [Create Azure Free Subscription](https://azure.microsoft.com/en-us/free/)
+- [Steps to Create Github Repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+- [Steps to Create Azure DevOps Account](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops)
+- [Step to Create Azure Free Subscription](https://azure.microsoft.com/en-us/free/)
