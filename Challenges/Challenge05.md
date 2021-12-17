@@ -14,7 +14,7 @@
 
 1. Demonstrate the technology to secure your APIs
 2. Demonstrate what changes you have made to existing implementations
-3. Demonstrate end-to-end functionality is in alignment with the solution blueprint
+3. Demonstrate end-to-end functionality in alignment with the solution blueprint
 
 ## Learning Resources
 
