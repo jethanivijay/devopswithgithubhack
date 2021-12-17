@@ -19,5 +19,5 @@
 3. Explain next step to be taken in alignment with Solution BluePrint
 ## Learning Resources
 
-- [Workflow Syntax for Github Actions](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
-- [Dotnet Core Environment Build](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netcore31&pivots=development-environment-vs)
+- [Working with Azure Pipelines](https://docs.microsoft.com/en-in/azure/devops/pipelines/?view=azure-devops)
+- [Working with Github Actions](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
