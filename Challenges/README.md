@@ -1,1 +1,2 @@
-
+- This folder is place Holder for Challenges.
+- Challenges will be unloaded based on progress of teams.
